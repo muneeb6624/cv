@@ -1,4 +1,4 @@
-# Click to open website
+# personal_site
 
 
-https://muneeb6624.github.io/personal_website/
+Click to visit website: https://muneeb6624.github.io/personal_website/
