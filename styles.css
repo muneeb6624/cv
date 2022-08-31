@@ -1,0 +1,11 @@
+body{
+    background-color: #c2d6db;
+}
+hr{
+    border-style: none; background-color: #92daec;
+    height: 2pt;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    size: 12px;
+}
